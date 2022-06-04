@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    luc.tools
   </div>
 </template>
