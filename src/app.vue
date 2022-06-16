@@ -35,8 +35,41 @@ import scyllo from "../assets/scyllo.png";
 import logger from "../assets/logger.png";
 import signal from "../assets/signal.png";
 import sunflake from "../assets/sunflake.png";
+import banner from "../assets/banner.png";
 
 export default {
+    head() {
+        return {
+            meta: [
+                {
+                    hid: "og-type",
+                    property: "og:type",
+                    content: "website",
+                },
+                { hid: "og-title", property: "og:title", content: "luc.tools" },
+                {
+                    hid: "og-desc",
+                    property: "og:description",
+                    content: "list of things i make",
+                },
+                {
+                    hid: "og-image",
+                    property: "og:image",
+                    content: banner,
+                },
+                {
+                    hid: "og-url",
+                    property: "og:url",
+                    content: "https://luc.tools",
+                },
+                {
+                    hid: "t-type",
+                    name: "twitter:card",
+                    content: "summary_large_image",
+                },
+            ],
+        };
+    },
     data() {
         return {
             tools: [

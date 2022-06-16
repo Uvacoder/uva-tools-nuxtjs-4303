@@ -7,6 +7,6 @@ export default defineNuxtConfig({
     vue: {
         compilerOptions: {
             isCustomElement: tag => ['luc-header', 'luc-footer'].includes(tag)
-        }
-    }
+        },
+    },
 });
