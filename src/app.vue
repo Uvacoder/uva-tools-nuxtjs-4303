@@ -63,22 +63,22 @@ export default {
                     content: "https://luc.tools",
                 },
                 {
-                    hid: "t-type",
+                    hid: "twitter:type",
                     name: "twitter:card",
                     content: "summary_large_image",
                 },
                 {
-                    hid: "t-title",
+                    hid: "twitter:title",
                     name: "twitter:title",
                     content: "luc.tools",
                 },
                 {
-                    hid: "t-description",
+                    hid: "twitter:description",
                     name: "twitter:description",
                     content: "list of things i make",
                 },
                 {
-                    hid: "t-image",
+                    hid: "twitter:image",
                     property: "twitter:image",
                     content: "https://luc.tools/" + banner,
                 },
