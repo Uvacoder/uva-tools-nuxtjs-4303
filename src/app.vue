@@ -55,7 +55,7 @@ export default {
                 {
                     hid: "og-image",
                     property: "og:image",
-                    content: banner,
+                    content: "https://luc.tools/" + banner,
                 },
                 {
                     hid: "og-url",
