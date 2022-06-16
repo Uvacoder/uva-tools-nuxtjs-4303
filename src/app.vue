@@ -67,6 +67,16 @@ export default {
                     name: "twitter:card",
                     content: "summary_large_image",
                 },
+                {
+                    hid: "t-title",
+                    name: "twitter:title",
+                    content: "luc.tools",
+                },
+                {
+                    hid: "t-description",
+                    name: "twitter:description",
+                    content: "list of things i make",
+                },
             ],
         };
     },
