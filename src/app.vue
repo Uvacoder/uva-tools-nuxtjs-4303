@@ -77,6 +77,11 @@ export default {
                     name: "twitter:description",
                     content: "list of things i make",
                 },
+                {
+                    hid: "t-image",
+                    property: "twitter:image",
+                    content: "https://luc.tools/" + banner,
+                },
             ],
         };
     },
