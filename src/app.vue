@@ -31,11 +31,14 @@
 
 <script>
 import "https://header.luc.computer/index.js";
-import scyllo from "../assets/scyllo.png";
-import logger from "../assets/logger.png";
-import signal from "../assets/signal.png";
-import sunflake from "../assets/sunflake.png";
-import banner from "../assets/banner.png";
+import bookmarks4dev from "../assets/bookmarks4dev.png";
+import collectionofsites from "../assets/collectionofsites.png";
+import guide4css from "../assets/guide4css.png";
+import hackernews4u from "../assets/hackernews4u.png";
+import maddiesworld from "../assets/maddiesworld.png";
+import portfolios4me from "../assets/portfolios4me.png";
+import nextjs-starters from "../assets/nextjs-starters.png";
+import picknemoji from "../assets/picknemoji.png";
 
 export default {
     head() {
@@ -89,24 +92,44 @@ export default {
         return {
             tools: [
                 {
-                    image: scyllo,
-                    name: "scyllo",
-                    href: "https://github.com/lvkdotsh/scyllo",
+                    image: bookmarks4dev,
+                    name: "bookmarks4dev",
+                    href: "https://bookmarks4dev.vercel.app",
                 },
                 {
-                    image: logger,
-                    name: "@lvksh/logger",
-                    href: "https://github.com/lvkdotsh/logger",
+                    image: collectionofsites,
+                    name: "collectionofsites",
+                    href: "https://collectionofsites.vercel.app",
                 },
                 {
-                    image: signal,
-                    name: "edgeserver",
-                    href: "https://edgeserver.io",
+                    image: guide4css,
+                    name: "guide4css",
+                    href: "https://guide4css.vercel.app",
                 },
                 {
-                    image: sunflake,
-                    name: "sunflake",
-                    href: "https://github.com/lvkdotsh/sunflake",
+                    image: maddiesworld,
+                    name: "maddiesworld",
+                    href: "https://maddiesworld.vercel.app",
+                },
+                {
+                    image: hackernews4u,
+                    name: "hackernews4u",
+                    href: "https://hackernews4u.vercel.app",
+                },
+                {
+                    image: nextjs-starters,
+                    name: "nextjs-starters",
+                    href: "https://nextjs-starters.vercel.app",
+                },
+                {
+                    image: picknemoji,
+                    name: "picknemoji",
+                    href: "https://picknemoji.vercel.app",
+                },
+                        {
+                    image: portfolios4me,
+                    name: "portfolios4me",
+                    href: "https://portfolios4me.vercel.app",
                 },
             ],
         };
