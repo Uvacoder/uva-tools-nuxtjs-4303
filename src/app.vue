@@ -8,7 +8,7 @@
                     This page is an collection of various projects I work on and maintaain
                     maintain.<br />Alec
                 </p>
-                <div class="flex gap-4 flex-wrap overflow-scroll justify-between">
+                <div class="flex gap-4 flex-wrap place-content-evenly overscroll-auto justify-between">
                     <a
                         v-bind:href="tool.href"
                         v-for="tool in tools"
