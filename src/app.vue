@@ -8,7 +8,7 @@
                     This page is an collection of various projects I work on and maintaain
                     maintain.<br />Alec
                 </p>
-                <div class="flex gap-4 flex-wrap justify-between">
+                <div class="flex flex-col gap-4 flex-wrap justify-between">
                     <a
                         v-bind:href="tool.href"
                         v-for="tool in tools"
