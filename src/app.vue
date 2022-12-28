@@ -5,8 +5,8 @@
             <div class="mx-4 px-2 w-full max-w-4xl">
                 <h1 class="text-xl">Tools</h1>
                 <p>
-                    This page is an aggregate of all the weird tools I work on /
-                    maintain.<br />~Luc
+                    This page is an collection of various projects I work on /
+                    maintain.<br />Alec
                 </p>
                 <div class="flex gap-4 flex-wrap justify-between">
                     <a
