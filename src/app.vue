@@ -31,6 +31,7 @@
 
 <script>
 // import "https://header.luc.computer/index.js";
+import banner from "../assets/banner.png";
 import bookmarks4dev from "../assets/screenshot-bookmarks4dev.png";
 import collectionofsites from "../assets/screenshot-collectionofsites.png";
 import guide4css from "../assets/screenshot-guide4css.png";
