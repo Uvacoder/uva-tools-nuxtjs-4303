@@ -5,7 +5,7 @@
             <div class="mx-4 px-2 w-full max-w-4xl">
                 <h1 class="text-xl">Tools</h1>
                 <p>
-                    This page is an collection of various projects I work on /
+                    This page is an collection of various projects I work on and maintaain
                     maintain.<br />Alec
                 </p>
                 <div class="flex gap-4 flex-wrap justify-between">
@@ -30,7 +30,7 @@
 </template>
 
 <script>
-import "https://header.luc.computer/index.js";
+// import "https://header.luc.computer/index.js";
 import bookmarks4dev from "../assets/screenshot-bookmarks4dev.png";
 import collectionofsites from "../assets/screenshot-collectionofsites.png";
 import guide4css from "../assets/screenshot-guide4css.png";
