@@ -35,7 +35,7 @@ import bookmarks4dev from "../assets/screenshot-bookmarks4dev.png";
 import collectionofsites from "../assets/screenshot-collectionofsites.png";
 import guide4css from "../assets/screenshot-guide4css.png";
 import hackernews4u from "../assets/screenshot-hackernews4u.png";
-import maddiesworld from "../assets/screenshot-maddiesworld.png";
+import maddiesworld from "../assets/screenshot-maddies-world.png";
 import portfolios4me from "../assets/screenshot-portfolios4me.png";
 import nextjs-starters from "../assets/screenshot-nextjs-starters.png";
 import picknemoji from "../assets/screenshot-picknemoji.png";
