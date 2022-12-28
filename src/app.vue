@@ -13,7 +13,7 @@
                         v-bind:href="tool.href"
                         v-for="tool in tools"
                         v-bind:key="tool.name"
-                        class="block overflow-hidden rounded-lg border-neutral-800 border-2"
+                        class="block rounded-lg border-neutral-800 border-2"
                         style="width: calc(50% - 0.5rem)"
                     >
                         <img
