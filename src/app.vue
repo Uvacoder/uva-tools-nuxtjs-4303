@@ -5,7 +5,7 @@
             <div class="mx-4 px-2 w-full max-w-4xl">
                 <h1 class="text-xl">Tools</h1>
                 <p>
-                    This page is an collection of various projects I work on and maintaain
+                    This page is an collection of various projects I work on and
                     maintain.<br />Alec
                 </p>
                 <div class="flex gap-4 flex-wrap place-content-evenly overscroll-auto justify-between">
