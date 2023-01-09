@@ -1,5 +1,5 @@
 <template>
-    <div className="h-screen flex flex-col">
+    <div className="flex flex-col">
         <luc-header />
         <div class="my-0 flex-1 mx-auto w-fit">
             <div class="mx-4 px-2 w-full max-w-4xl">
@@ -150,7 +150,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: monospace, sans-serif;
-    overflow: hidden;
+    overflow: auto;
 }
 html {
     overflow-y: overlay;
