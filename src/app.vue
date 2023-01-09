@@ -1,5 +1,5 @@
 <template>
-    <div className="flex flex-col">
+    <div className="flex flex-col scroll-smooth">
         <luc-header />
         <div class="my-0 flex-1 mx-auto w-fit">
             <div class="mx-4 px-2 w-full max-w-4xl">
